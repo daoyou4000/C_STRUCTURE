@@ -12,8 +12,7 @@ It is not allowed to remove or add new elements in between.
 使用链表做队列时，代码稍微复杂，但是队列长度灵活。
 
 
-'''
-
+´´´
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
@@ -119,4 +118,4 @@ int main(void)
 }
 
 
-'''
+´´´
