@@ -2,6 +2,7 @@
 
 The Queue is a linear list with two terminals **Front** and **Rear** which follows the rule 
 FIFO (Fisrt In First Out). The Front is used to remove element and rear is used to add new element.
+It is not allowed to remove or add new elements in between.
 
 ### Create the Queue
 - use the array with fixed size.
